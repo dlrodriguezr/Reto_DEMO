@@ -1,0 +1,10 @@
+automation\DEFINITIONS\DefinitionsSteps.class
+automation\Steps\Conexion.class
+automation\Automatizacion\AppTest.class
+automation\Paginas\Login.class
+automation\Test\RunnersFeature.class
+automation\Steps\Questions.class
+automation\Paginas\Edit.class
+automation\Automatizacion\App.class
+automation\Steps\Botones.class
+automation\Paginas\SerchOrder.class
